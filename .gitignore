@@ -1,0 +1,22 @@
+# Game data and third-party builds: never commit
+*.iso
+*.7z
+*.zip
+*.wbfs
+*.gcm
+*.rvz
+*.raw
+Project+*/
+upstream/
+
+# Build and tool output
+node_modules/
+dist/
+build/
+*.log
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
