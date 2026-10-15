@@ -8,6 +8,7 @@
   <img alt="Dolphin" src="https://img.shields.io/badge/Dolphin-2606-0ea5e9?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20first-2563eb?style=for-the-badge">
   <img alt="Netplay" src="https://img.shields.io/badge/netplay-stock%20compatible-16a34a?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-facc15?style=for-the-badge">
 </p>
 
 <h1 align="center">🥊 BrawlLive</h1>
@@ -131,4 +132,4 @@ pwsh -File tools/installer/Install-BrawlLive.Tests.ps1
 
 [Project+ Development Team](https://projectplusgame.com) for the mod and its Dolphin fork · [Dolphin Emulator](https://dolphin-emu.org) · [Slippi](https://slippi.gg) for proving the in-game queue · [Brawlback](https://github.com/Brawlback-Team) and [Mario Party Netplay](https://github.com/MarioPartyNetplay) for paving the road.
 
-<p align="center"><sub>License for this repository is still to be decided; the Dolphin fork is GPL-2.0-or-later.</sub></p>
+<p align="center"><sub>This repository is <a href="LICENSE">MIT licensed</a>. The Dolphin fork is GPL-2.0-or-later, inherited from Dolphin and Project+.</sub></p>
