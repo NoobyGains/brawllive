@@ -20,3 +20,6 @@ build/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local test workspaces (ISO extraction, instance folders)
+work/
